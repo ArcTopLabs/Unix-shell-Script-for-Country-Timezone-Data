@@ -1,6 +1,6 @@
 # Unix shell Script for Country Timezone Data
 
-Mac OS shell script to access ArcTop Labs #MasterDataNode Data Solution Technology, Sample data available in excel sheet.
+Unix OS shell script to access ArcTop Labs #MasterDataNode Data Solution Technology, Sample Country Timezone data available in excel sheet.
 Upload this sheet after login to you account to desired App, on Uploading dataset is been created with name greeting.
 change the excel sheet name to if you want different dataset name.
 .sh files are availabe to access get, post request to #MasterDataNode Technology. Shell uses Curl library to access #MasterDataNode data.
@@ -13,5 +13,6 @@ ArcTop Labs : MasterDataNode Data Solution
 <p>Copy and Replace the access_token (available in your login) against ####ACCESSTOKEN###### string on .sh file</p>
             
 
-![alt text](https://github.com/ArcTopLabs/Mac-OS-shell-Script-for-Greeting-Data/blob/master/screenshot/find%20request%20greeting%20using%20get%20post.png)
-![alt text](https://github.com/ArcTopLabs/Mac-OS-shell-Script-for-Greeting-Data/blob/master/screenshot/listing%20request%20greeting.png)
+![alt text](https://github.com/ArcTopLabs/Unix-shell-Script-for-Country-Timezone-Data/blob/master/screenshot/timezone%20find%20get%20post.png)
+![alt text](https://github.com/ArcTopLabs/Unix-shell-Script-for-Country-Timezone-Data/blob/master/screenshot/timezone%20listing.png)
+![alt text](https://github.com/ArcTopLabs/Unix-shell-Script-for-Country-Timezone-Data/blob/master/screenshot/timezone%20india%20dataset.png)
